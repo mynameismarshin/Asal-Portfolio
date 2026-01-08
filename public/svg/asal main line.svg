@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1027.23" height="6.91" viewBox="0 0 1027.23 6.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Asal">
+      <path id="ground" class="cls-1" d="M.86,2.24c113.18-.73,793.83.47,907,1,39.27-1.7,78.56-2.6,117.84-.39V4.56C684.43,3.09,342.91,6.32,1.5,5.15V4C190.35,3.3.86,2.24.86,2.24Z"/>
+    </g>
+  </g>
+</svg>

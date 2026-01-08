@@ -1,0 +1,24 @@
+/* First, define the font file so the browser knows what 'Ink Free' is. */
+@font-face {
+  font-family: 'Caveat';
+  /* Path to the regular font file */
+  src: url('/fonts/Caveat-Regular.woff') format('woff');
+  font-weight: normal; /* or 400 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Caveat';
+  /* Path to the bold font file */
+  src: url('/fonts/Caveat-Bold.woff') format('woff');
+  font-weight: bold; /* or 700 */
+  font-style: normal;
+}
+  
+  /* Next, import Tailwind's styles. */
+  @import "tailwindcss";
+  
+  /* Finally, use the @theme directive to create your custom font utility. */
+  @theme {
+    --font-caveat: "Caveat", cursive;
+  }
